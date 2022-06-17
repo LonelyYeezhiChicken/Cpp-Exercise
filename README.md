@@ -2,4 +2,5 @@
 C++ 練習
 
 ### 練習1
-[Hello World](https://github.com/LINDuke-Lin/Cpp-Exercise/tree/main/docs/Exercise1)
+- [Hello World](https://github.com/LINDuke-Lin/Cpp-Exercise/tree/main/docs/Exercise1)
+- [method](https://github.com/LINDuke-Lin/Cpp-Exercise/tree/main/docs/Exercise2)
